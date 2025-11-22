@@ -2,6 +2,13 @@
 This is a simple Telegram Bot for you bio 
 
 
+# Features:
+-Social Links\
+-projects\
+-about me\
+-send code of bot
+
+
 #Instalization
 
 ## First go to the Official Telegram Bot @BotFather

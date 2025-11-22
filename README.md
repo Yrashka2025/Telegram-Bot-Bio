@@ -9,7 +9,7 @@ This is a simple Telegram Bot for you bio
 -send code of bot
 
 
-#Instalization
+# Instalization
 
 ## First go to the Official Telegram Bot @BotFather
 
